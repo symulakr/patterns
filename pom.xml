@@ -12,6 +12,7 @@
         <module>factory</module>
         <module>singleton</module>
         <module>adapter</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
     <dependencies>
